@@ -191,12 +191,12 @@ MIT License - see [LICENSE](LICENSE)
 
 ## Author
 
-**Alex Amedro** - Looking for M1 internship in Computer Graphics / Game Development
-**Lilian Dez**
-**Julien Puech**
-**Noé Rigolleti**
-**Raphael Landry**
-**Mathis Magron**
+- **Alex Amedro** 
+- **Lilian Dez**
+- **Julien Puech**
+- **Noé Rigolleti**
+- **Raphael Landry**
+- **Mathis Magron**
 
 GitHub: [@Alex-Amedro](https://github.com/Alex-Amedro)
 
